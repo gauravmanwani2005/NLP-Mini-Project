@@ -1,0 +1,23 @@
+[
+  {
+    "Model": "TF-IDF + Logistic Regression",
+    "Type": "Classical Machine Learning",
+    "Accuracy": 0.9835,
+    "Weighted F1": 0.9834,
+    "Macro F1": 0.9839
+  },
+  {
+    "Model": "Pretrained BERT (Frozen / Zero-Shot)",
+    "Type": "Un-fine-tuned Transformer",
+    "Accuracy": 0.085,
+    "Weighted F1": 0.0808,
+    "Macro F1": 0.0808
+  },
+  {
+    "Model": "Fine-Tuned BERT (EduMind)",
+    "Type": "Domain-Adapted Transformer",
+    "Accuracy": 0.9876,
+    "Weighted F1": 0.9876,
+    "Macro F1": 0.9865
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "label2id": {
+    "admissions": 0,
+    "assignments": 1,
+    "attendance": 2,
+    "courses": 3,
+    "exam_registration": 4,
+    "exam_schedule": 5,
+    "fees": 6,
+    "general_query": 7,
+    "library": 8,
+    "placements": 9,
+    "results": 10,
+    "timetable": 11
+  },
+  "id2label": {
+    "0": "admissions",
+    "1": "assignments",
+    "2": "attendance",
+    "3": "courses",
+    "4": "exam_registration",
+    "5": "exam_schedule",
+    "6": "fees",
+    "7": "general_query",
+    "8": "library",
+    "9": "placements",
+    "10": "results",
+    "11": "timetable"
+  }
+}

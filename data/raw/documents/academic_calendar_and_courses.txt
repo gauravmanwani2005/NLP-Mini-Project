@@ -1,0 +1,35 @@
+EDUMIND COLLEGE OF ENGINEERING & TECHNOLOGY
+ACADEMIC CALENDAR, CURRICULUM SCHEME & TIMETABLE REGULATIONS
+Document Code: ECET-ACAD-CAL-2026
+
+1. ACADEMIC CALENDAR OVERVIEW
+1.1 The academic year comprises two semesters: Odd Semester (July to December) and Even Semester (January to June).
+1.2 Each semester consists of a minimum of 90 instructional days (15 teaching weeks) excluding examination and preparation breaks.
+1.3 Important Dates for the Current Academic Year:
+    - Odd Semester Commencement: July 15th
+    - Continuous Assessment Test-1 (CAT-1): September 10th to 16th
+    - Mid-Semester Technical Fest & Cultural Days: October 3rd to 5th
+    - Continuous Assessment Test-2 (CAT-2): November 4th to 10th
+    - Practical & Oral Examination Sessions: November 20th to 28th
+    - End-Semester Theory Examinations: December 2nd to December 22nd
+    - Semester Vacation: December 23rd to January 9th
+    - Even Semester Classes Begin: January 10th
+
+2. CHOICE-BASED CREDIT SYSTEM (CBCS) & COURSE REGISTRATION
+2.1 B.Tech degree completion requires a cumulative earning of 160 academic credits distributed across:
+    - Basic Science Courses (BSC): 24 Credits
+    - Engineering Science Courses (ESC): 22 Credits
+    - Professional Core Courses (PCC): 64 Credits
+    - Professional Elective Courses (PEC): 18 Credits
+    - Open Elective Courses (OEC): 12 Credits
+    - Humanities & Social Sciences (HSMC): 12 Credits
+    - Capstone Project Work & Internship: 16 Credits
+2.2 Mandatory Course Registration takes place online in the first week of each semester. A student may register for a maximum of 28 credits per semester.
+2.3 Adding or dropping elective courses is allowed within 10 instructional days of semester start with Academic Mentor recommendation.
+2.4 Online MOOC credits: Up to 8 credits can be earned via approved NPTEL / SWAYAM 12-week certification courses with prior Dean approval.
+
+3. MASTER TIMETABLE & WORKING HOURS
+3.1 Instructional hours operate from 9:00 AM to 4:45 PM, Monday through Friday, divided into 7 lecture periods of 50 minutes each and a 55-minute lunch break (12:40 PM - 1:35 PM).
+3.2 Laboratory sessions are conducted in consecutive 2-hour practical slots for designated batches of 20 students.
+3.3 Saturday schedules are designated for co-curricular clubs, remedial tutorial sessions, NSS/sports activities, and student mentor meetings.
+3.4 Official notifications, class schedules, and room allocations are published on the department notice boards and EduMind Student Mobile App.

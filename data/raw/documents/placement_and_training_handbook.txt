@@ -1,0 +1,26 @@
+EDUMIND COLLEGE OF ENGINEERING & TECHNOLOGY
+TRAINING & PLACEMENT CELL (T&P) GUIDELINES & RECRUITMENT POLICY
+Document Code: ECET-TNP-POL-2026
+
+1. PLACEMENT ELIGIBILITY & REGISTRATION
+1.1 All final-year students seeking campus recruitment assistance must register with the T&P Portal (placement.edumind.ac.in) by July 15th with verified academic credentials.
+1.2 Minimum Academic Eligibility:
+    - Tier-1 Product Companies (CTC > 12 LPA): Minimum CGPA 8.0 without any live or past standing backlogs.
+    - Tier-2 Core and IT Service Companies (CTC 6 to 12 LPA): Minimum CGPA 7.0 with maximum 1 standing backlog.
+    - Mass Recruiters / Consultancies (CTC 3.5 to 6 LPA): Minimum CGPA 6.0 with maximum 2 allowed backlogs.
+1.3 Attendance in all pre-placement training modules (quantitative aptitude, logical reasoning, verbal communication, DSA coding bootcamps, and mock interviews) must be at least 85%.
+
+2. CAMPUS RECRUITMENT POLICY (ONE STUDENT - ONE OFFER)
+2.1 To ensure equitable opportunities, EduMind follows a modified 'One Student, One Job Offer' policy:
+    - Once a student receives an offer in Tier-3 category (< 6 LPA), they are permitted to compete only for Tier-1 'Dream' companies offering 2x of their current offer.
+    - An offer from a Tier-1 Dream company (> 12 LPA) is considered final, and the candidate is immediately de-registered from all further placement drives.
+2.2 Accepting an on-campus placement offer requires signing the Letter of Intent (LOI) within 48 hours. Failing to honor an accepted offer leads to permanent debarment from campus recruitment services.
+
+3. INTERNSHIP GUIDELINES & CREDITS
+3.1 Eighth-semester students may undertake full-time 6-month industry internships with stipend >= Rs. 20,000 per month, subject to departmental approval and No Objection Certificate (NOC) from the T&P Cell.
+3.2 A 6-month industry internship carries 12 academic credits in lieu of elective coursework and capstone project-2, evaluated via monthly faculty reviews and joint company mentor appraisal.
+
+4. RECRUITMENT STATISTICS HIGHLIGHTS
+4.1 Over 140 premier technology companies participate in campus placements annually, including Google, Microsoft, Amazon, TCS, Infosys, Cognizant, L&T, and Tata Motors.
+4.2 Highest international package offered: Rs. 44.5 LPA. Highest domestic package: Rs. 32 LPA. Average engineering package across all branches: Rs. 7.8 LPA.
+4.3 T&P Cell contact: placement@edumind.ac.in, Office Room #204, Administrative Block.

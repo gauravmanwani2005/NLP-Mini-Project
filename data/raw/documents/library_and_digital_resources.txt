@@ -1,0 +1,32 @@
+EDUMIND COLLEGE OF ENGINEERING & TECHNOLOGY
+CENTRAL LIBRARY & INFORMATION RESOURCE CENTRE: USER MANUAL
+Document Code: ECET-LIB-MAN-2026
+
+1. GENERAL TIMINGS AND MEMBERSHIP
+1.1 The Central Library operates from 8:00 AM to 9:00 PM on all working days (Monday through Saturday).
+1.2 During mid-term and end-semester examination periods, the 24x7 Reading Hall remains open overnight for registered students.
+1.3 All bona fide students, faculty, and research scholars are automatically enrolled as library members upon issuance of their Barcoded Smart Identity Card.
+
+2. CIRCULATION AND BORROWING PRIVILEGES
+2.1 Undergraduate (B.Tech) Students: May borrow up to 4 books simultaneously for a borrowing period of 14 calendar days.
+2.2 Postgraduate (M.Tech) & Research Scholars: May borrow up to 6 books for a duration of 28 calendar days.
+2.3 Book renewals can be executed twice online via the Web-OPAC system, provided no reservation hold exists from another user.
+2.4 Overdue Fine Structure:
+    - Days 1 to 7 overdue: Rs. 5 per book per day.
+    - Beyond 7 days overdue: Rs. 15 per book per day.
+2.5 In case of lost or irreparably damaged books, the borrower must replace the book with the latest edition or pay three times the current catalogue market price plus Rs. 100 processing surcharge.
+
+3. DIGITAL LIBRARY & E-RESOURCES
+3.1 The Digital Library section houses 60 high-performance computer terminals equipped with high-speed internet and research tools.
+3.2 Subscribed Online Databases & Electronic Journals:
+    - IEEE Xplore Digital Library (Full-text access to all conferences and journals)
+    - ACM Digital Library & SpringerLink Nature Journals
+    - ScienceDirect (Elsevier) & ASCE / ASME Digital Collections
+    - NPTEL video lecture repositories and Swayam local cache servers
+3.3 RemoteXs Off-Campus Remote Access: Students can access digital databases from outside the campus using institutional email SSO credentials at elibrary.edumind.ac.in.
+3.4 Anti-Plagiarism Screening: The library provides Turnitin and Urkund originality similarity verification for student project reports, thesis dissertations, and technical papers. A similarity index below 15% is mandatory for thesis submission.
+
+4. CODE OF CONDUCT
+4.1 Silence must be strictly observed in reading halls. Mobile phone usage in voice mode is strictly banned inside library premises.
+4.2 Bags, personal books, and umbrellas must be deposited at the property counter before entering.
+4.3 Library 'No-Dues Clearance' certificate is mandatory for final semester graduation and issuance of degree transcripts.

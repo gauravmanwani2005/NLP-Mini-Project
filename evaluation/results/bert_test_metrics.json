@@ -1,0 +1,9 @@
+{
+  "model": "Fine-Tuned BERT (bert-base-uncased)",
+  "accuracy": 0.9876,
+  "precision_weighted": 0.9882,
+  "recall_weighted": 0.9876,
+  "f1_weighted": 0.9876,
+  "macro_f1": 0.9865,
+  "test_samples": 242
+}
